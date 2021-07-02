@@ -2,7 +2,7 @@
 
 ## Check out my webapp here - https://taskmanager-7a00c.web.app/
 
-##Features included - 
+## Features included - 
 - User is able to register / login
 - User is able to create a task
 - User should be able to assign the task to other users
