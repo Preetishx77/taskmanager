@@ -1,0 +1,16 @@
+.menu {
+  background-color: rgba(4, 4, 255, 0.274);
+  min-height: 100vh;
+  width: 15vw;
+}
+
+.group {
+  background-color: rgb(170, 181, 255);
+  padding: 0.5em;
+}
+
+.group-name {
+  background-color: rgba(4, 4, 255, 0.198);
+  /* background-color: rgb(201, 208, 255); */
+  padding: 0.2em;
+}

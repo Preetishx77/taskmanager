@@ -1,0 +1,12 @@
+.editModal {
+  border-radius: 10px !important;
+}
+
+.save-task-btn {
+  background-color: rgb(170, 181, 255) !important;
+  width: 100%;
+  border-radius: 0 0 2px 2px !important;
+  border: none;
+  min-height: 3.5em;
+  margin-top: 2em !important;
+}

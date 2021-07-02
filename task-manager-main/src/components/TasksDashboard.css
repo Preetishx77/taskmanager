@@ -1,0 +1,41 @@
+.tasks {
+  background-color: rgba(236, 236, 236, 0.329);
+  min-height: 100vh;
+  width: 85vw;
+}
+
+.to-do,
+.done {
+  min-height: 60vh;
+}
+
+.custom-btn {
+  /* background-color: rgba(4, 4, 255, 0.274) !important; */
+  /* background-color: rgb(133, 145, 255) !important; */
+  background-color: rgba(4, 4, 255, 0.335) !important;
+  color: white;
+}
+
+.tasks-container {
+  padding: 0 10rem 10rem 10rem;
+}
+
+.urgent,
+.important,
+.secondary {
+  width: 10px;
+  height: 10px;
+  border-radius: 180px;
+}
+
+.urgent {
+  background-color: red;
+}
+
+.important {
+  background-color: orange;
+}
+
+.secondary {
+  background-color: rgba(0, 0, 255, 0.479);
+}
