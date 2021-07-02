@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import Login from './Login';
 import fire from './firebase';
-
 import DashBoard from './components/Dashboard';
+
 class App extends Component{
   constructor(props)
   {
